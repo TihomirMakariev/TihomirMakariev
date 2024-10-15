@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/dfrjvftfv/image/upload/v1729002792/MasterHead_dp1ct2.jpg)](https://tihomirmakariev.io)
 
 
-<h1 align="center">Hi 👋, I'm Tihomir Makariev</h1>
+<h1 align="center">Hi, I'm Tihomir Makariev</h1>
 <h3 align="center">Java & Spring Developer | Building Web Applications with Spring Boot, Thymeleaf, and MySQL</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dfrjvftfv/image/upload/v1728998460/Codding_gift_vu4sef.gif">
 
