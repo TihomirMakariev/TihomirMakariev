@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dfrjvftfv/image/upload/v1729002792/MasterHead_dp1ct2.jpg)](https://tihomirmakariev.io)
+[![MasterHead](https://res.cloudinary.com/dfrjvftfv/image/upload/v1729012871/Java_copy_tptyq7.jpg)](https://tihomirmakariev.io)
 
 
 <h1 align="center">Hi, I'm Tihomir Makariev</h1>
